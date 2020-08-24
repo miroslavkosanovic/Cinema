@@ -1,0 +1,5 @@
+package com.Bioskop.entity;
+
+public enum Role{
+    VIEWER, MENAGER, ADMIN
+}
